@@ -1,1 +1,1 @@
-# Smart_Irrigation_System
+<b><i> This is a smart irrigation system using IOT technology. This project has various components whose functionality depends on soil moisture value measured by sensor. This project was developed solely by me along with its arduino code. </i></b>
